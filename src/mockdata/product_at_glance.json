@@ -1,0 +1,23 @@
+[
+    {
+        "name": "FI as a Service",
+        "description": "IMPS, AEPS, Aadharpay, Micro ATM, Insurance, Micro credit.",
+        "image": "fi.svg"
+    },
+    {
+        "name": "Neo Banking as a Service",
+        "description": "CASA, PPI, Debit Cards, Credit Cards, Investments.",
+        "image": "security.svg"
+    },
+    {
+        "name": "Lending as a Service",
+        "description": "BNPL, Loan lead generation CRM, Retail Establishment.",
+        "image": "support.svg"
+    },
+    {
+        "name": "Transaction Banking as a Service",
+        "description": "Payout, UPI, Fastag, BBPS, CMS, ENACH, Virtual Accounts, POS.",
+        "image": "design.svg"
+    }
+
+]

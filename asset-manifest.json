@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ravansys/static/css/main.56052614.css",
+    "main.js": "/ravansys/static/js/main.df92cf2b.js",
+    "static/js/787.78516081.chunk.js": "/ravansys/static/js/787.78516081.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ravansys/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/ravansys/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ravansys/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ravansys/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ravansys/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/expert.png": "/ravansys/static/media/expert.79375ecac3a68e776a73.png",
+    "static/media/engineer.svg": "/ravansys/static/media/engineer.40cbda133f3e7ed1b17173f0a030b6a0.svg",
+    "static/media/writer.svg": "/ravansys/static/media/writer.b4dd24839fc64222c5163498b8e88857.svg",
+    "static/media/loan.svg": "/ravansys/static/media/loan.fdefde60cd7640094b96aa846d34f473.svg",
+    "static/media/finance.svg": "/ravansys/static/media/finance.5f92c9bc91a46999833cb7765da2b664.svg",
+    "static/media/logo.svg": "/ravansys/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/transaction.svg": "/ravansys/static/media/transaction.40ef9e16eb64b1cae443a9b35603e422.svg",
+    "static/media/bank.svg": "/ravansys/static/media/bank.552748c296cd034c8e1f9bfac20398b2.svg",
+    "static/media/design.svg": "/ravansys/static/media/design.89768642458790027dba9fc5c9c2c946.svg",
+    "static/media/security.svg": "/ravansys/static/media/security.4eed9e1b752b6d6c57e32b0d7b80243c.svg",
+    "static/media/support.svg": "/ravansys/static/media/support.1bf9f921a30616cd26ff76d7ecdefa84.svg",
+    "index.html": "/ravansys/index.html",
+    "static/media/fi.svg": "/ravansys/static/media/fi.0d4d49d3a3c7023efd82b6d8b9e74e1f.svg",
+    "main.56052614.css.map": "/ravansys/static/css/main.56052614.css.map",
+    "main.df92cf2b.js.map": "/ravansys/static/js/main.df92cf2b.js.map",
+    "787.78516081.chunk.js.map": "/ravansys/static/js/787.78516081.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56052614.css",
+    "static/js/main.df92cf2b.js"
+  ]
+}

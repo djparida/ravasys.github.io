@@ -1,0 +1,252 @@
+/* //----------------------------Scrollbar Custom global style css Start------------- */
+::-webkit-scrollbar-thumb {
+    border-radius: 100px !important;
+    background-color: #c0c0c9;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 100px;
+    background-color: #F7FAFC;
+}
+
+::-webkit-scrollbar,
+.wrapper ::-webkit-scrollbar {
+    width: 5px !important;
+    height: 5px;
+}
+
+/* //----------------------------Scrollbar Custom global style css End------------- */
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+}
+
+.topHead {
+    background: #fff;
+    box-shadow: 0px 0px 20px #eee;
+    padding: 10px 0px;
+}
+
+.main-heading{
+    font-size: 42px;
+    margin-bottom: 32px;
+    font-weight: 700;
+}
+
+p{
+    color: #787a7e;
+    font-size: 14px;
+    margin-bottom: 15px;
+    font-weight: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.sky-blue {
+    background: #fbfbfb;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.best-features-area {
+    position: relative;
+}
+
+.section-tittle h2 {
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.best-features-area .single-features {
+    display: flex;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+}
+
+.best-features-area .single-features .features-icon span {
+    position: relative;
+    color: #fff;
+    font-size: 30px;
+    height: 67px;
+    width: 67px;
+    display: block;
+    line-height: 67px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #00dbff;
+    /* background-image: -moz-linear-gradient(90deg, #349091 0%, #00dbff 100%);
+    background-image: -webkit-linear-gradient(90deg, #349091 0%, #00dbff 100%);
+    background-image: -ms-linear-gradient(90deg, #349091 0%, #00dbff 100%); */
+}
+
+.best-features-area .single-features:hover .features-icon span {
+    background: rgb(250,136,35);
+    background: -moz-linear-gradient(90deg, rgba(250,136,35,1) 0%, rgba(255,220,0,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(250,136,35,1) 0%, rgba(255,220,0,1) 100%);
+    background: linear-gradient(90deg, rgba(250,136,35,1) 0%, rgba(255,220,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fa8823",endColorstr="#ffdc00",GradientType=1);
+}
+
+.best-features-area .single-features .features-caption {
+    padding-left: 19px;
+}
+.features-icon img {
+    height: 35px;
+}
+
+.best-features-area .single-features .features-caption h3 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 10px;
+    color: #23182c;
+}
+
+.service-area .section-tittle h2 {
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 36px;
+}
+
+.service-area .services-caption {
+    min-height: 278px;
+    background: #fff;
+    padding: 30px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    margin-bottom: 30px;
+}
+
+.services-caption:hover {
+    /* border: 1px solid #3fafbc; */
+    box-shadow: 0px 0px 30px #2e333917;
+}
+
+.service-area .services-caption .service-icon {
+    display: inline-block;
+    position: relative;
+}
+
+.service-area .services-caption .service-icon span {
+    position: relative;
+    color: #fff;
+    font-size: 40px;
+    height: 105px;
+    width: 105px;
+    display: block;
+    line-height: 97px;
+    border-radius: 50%;
+    text-align: center;
+    background: -webkit-linear-gradient(90deg, #349091 0%, #00dbff 100%);
+    background: linear-gradient(90deg, #349091 0%, #00dbff 100%);
+    background: -moz-linear-gradient(90deg, #349091 0%, #00dbff 100%);
+    margin-bottom: 42px;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+
+.services-caption:hover .service-icon span {
+    background: rgb(250,136,35);
+    background: -moz-linear-gradient(90deg, rgba(250,136,35,1) 0%, rgba(255,220,0,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(250,136,35,1) 0%, rgba(255,220,0,1) 100%);
+    background: linear-gradient(90deg, rgba(250,136,35,1) 0%, rgba(255,220,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fa8823",endColorstr="#ffdc00",GradientType=1);
+}
+
+.service-icon span img {
+    height: 45px;
+}
+
+.services-caption:hover .service-icon::before {
+    right: -32px!important;
+}
+
+.service-area .services-caption .service-icon::before {
+    background-image: url('../images/dot-bg.png');
+    content: "";
+    width: 80px;
+    height: 135px;
+    position: absolute;
+    right: -29px;
+    top: -35px;
+    z-index: 0;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+
+.available-app-area {
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.available-app-area {
+    background-color: #338d8f;
+    background-image: -moz-linear-gradient(0deg, #44bfd4 0%, #338d8f 100%);
+    background-image: -webkit-linear-gradient(0deg, #44bfd4 0%, #338d8f 100%);
+    background-image: -ms-linear-gradient(0deg, #44bfd4 0%, #338d8f 100%);
+}
+
+.app-caption {
+    margin-top: 100px;
+}
+
+.available-app-area .app-shape .app-shape-top {
+    position: absolute;
+    top: 100px;
+    left: 125px;
+}
+
+.heartbeat {
+    animation: heartbeat 1s infinite alternate;
+}
+.available-app-area .app-shape .app-shape-left {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.say-something-aera {
+    position: relative;
+    border-bottom: 1px solid #ffc9fd;
+}
+
+.say-something-aera .say-something-cap h2 {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #282828;
+}
+
+.say-something-aera .say-shape .say-shape1 {
+    position: absolute;
+    left: -99px;
+    bottom: -140px;
+}
+
+.rotateme {
+    -webkit-animation-name: rotateme;
+    animation-name: rotateme;
+    -webkit-animation-duration: 50s;
+    animation-duration: 50s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+}
+
+.say-something-aera .say-shape .say-shape2 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}

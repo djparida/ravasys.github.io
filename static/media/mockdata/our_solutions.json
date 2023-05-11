@@ -1,0 +1,27 @@
+[
+    {
+        "name":"BC Program Management",
+        "description":"Full stack financial inclusion solution with on boarding , transaction....",
+        "image":"bank.svg"
+    },
+    {
+        "name":"Switching Solutions",
+        "description":"Full stack financial inclusion solution with on boarding , transaction....",
+        "image":"loan.svg"
+    },
+    {
+        "name":"Switching Solutions",
+        "description":"Full stack financial inclusion solution with on boarding , transaction....",
+        "image":"loan.svg"
+    },
+    {
+        "name":"Issuance Solutions",
+        "description":"State of art lead gen platform that will enable bank to capture leads via Agent....",
+        "image":"finance.svg"
+    },
+    {
+        "name":"CRM Solutions",
+        "description":"Full stack financial inclusion solution with on boarding , transaction processing....",
+        "image":"finance.svg"
+    }
+]
